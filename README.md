@@ -46,7 +46,4 @@ Explore the dashboard sheet for a visual summary
 Use filters/slicers to interact with the data
 💡 Conclusion
 This project demonstrates how Excel can be effectively used for data analysis and visualization. By answering key business questions, it provides insights into revenue drivers and performance trends, enabling better decision-making.
-📎 Future Improvements
-Incorporate advanced Excel features like Power Query and Power Pivot
-Add predictive analysis using regression
-Expand dataset for deeper insights
+
