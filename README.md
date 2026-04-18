@@ -1,4 +1,7 @@
 # SALES-PROFIT--ANALYSIS
+<img width="678" height="452" alt="Image" src="https://github.com/user-attachments/assets/c3cb1729-c5a5-4c8c-b8d6-9626787a7517" />
+
+
 This project focuses on Sales and Profit Analysis, aimed at uncovering key business insights from transactional data to support data-driven decision-making. The analysis explores how sales performance translates into profitability across different dimensions such as products, regions, customer segments, and time periods.
 Sales Data Analysis (Excel Project)
 📌 Project Overview
