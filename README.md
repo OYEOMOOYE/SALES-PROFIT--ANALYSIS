@@ -4,22 +4,22 @@
 
 This project focuses on Sales and Profit Analysis, aimed at uncovering key business insights from transactional data to support data-driven decision-making. The analysis explores how sales performance translates into profitability across different dimensions such as products, regions, customer segments, and time periods.
 Sales Data Analysis (Excel Project)
-📌 Project Overview
+ Project Overview
 This project presents a comprehensive sales data analysis conducted using Microsoft Excel. The primary goal is to extract meaningful insights from sales data and answer key business questions related to revenue performance across products, countries, and time periods.
 The analysis leverages Excel tools such as Pivot Tables, charts, and basic data cleaning techniques to transform raw data into actionable insights that support strategic decision-making.
-🎯 Objectives
+ Objectives
 The project is designed to answer the following key questions:
 Which product generates the highest revenue?
 Which country generates the highest revenue?
 In which year and month is the highest revenue generated?
-🛠️ Tools & Techniques Used
+ Tools & Techniques Used
 Microsoft Excel
 Data Cleaning (removing duplicates, handling missing values)
 Pivot Tables
 Pivot Charts
 Sorting and Filtering
 Basic formulas (SUM, IF, etc.)
-📊 Data Analysis Process
+ Data Analysis Process
 1. Data Cleaning
 Verified data consistency
 Removed duplicates and handled missing values
